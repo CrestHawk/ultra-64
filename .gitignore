@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+#using Typescript so don't keep js or js.map in git
+*.js
+*.js.map
+
